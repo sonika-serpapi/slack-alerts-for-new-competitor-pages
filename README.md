@@ -2,7 +2,7 @@
 
 In this tutorial, we’ll build a simple system that uses SerpApi's Google Search API to detect when a new competitor domain URL appears in search results and then sends an alert to a Slack channel.
 
-Code examples for blog post: serpapi.com/blog/build-a-slack-bot-that-alerts-you-when-your-competitor-launches-a-new-page
+Code examples for blog post: https://serpapi.com/blog/build-a-slack-bot-that-alerts-you-when-your-competitor-launches-a-new-page
 
 ## Getting Started
 
